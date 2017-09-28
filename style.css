@@ -3,20 +3,26 @@
 
 
 p{
-	font-family: sans;
+	font-family: 'Pangolin', cursive;
 	font-size: 13.66px;
-	font-weight: bold;
+	
 	color: blue;
 	line-height: 1.5;
+	font-style: bold
 }
 h1{
 	font-weight: 800;
 	text-align: center;
 	font-family: georgia;
 	color: green;
+	font-size: 24px;
 }
 
 .bottompar{
 	color: red; 
 	letter-spacing: 2px;
+	line-height: 50px;
+	font-style: bold;
+	font-family: 'Ubuntu', sans-serif;
 }
+
